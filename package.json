@@ -1,0 +1,14 @@
+{
+  "name": "projectnodejs",
+  "version": "1.0.0",
+  "description": "ahorrar tiempo sobre la creación y/o estructura de un proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salim Vazquez Solis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
